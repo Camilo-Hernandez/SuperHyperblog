@@ -1,0 +1,3 @@
+Hola mundo
+Este es el nuevo archivo de texto creado con VSCode como prueba para el curso de git.
+Hope you're enjoying it!
