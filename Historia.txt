@@ -2,5 +2,5 @@ Hola mundo
 Este archivo de texto fue creado con Visual Studio Code como prueba para el curso de git y modificado por 3ra vez con block de notas.
 Hope you're enjoying it!
 
-Ahora este es el segundo cambio que le hago al archivo.
+Ahora este es el segundo cambio que le hago al archivo de texto.
 Let's see how this changes in the repository.
