@@ -2,5 +2,22 @@ body{
     color: rgb(255, 212, 20);
     background-color: black;
     text-align: center;
+    font-size: 16px;
+    margin: 0;
     font-family: "Arial";
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
