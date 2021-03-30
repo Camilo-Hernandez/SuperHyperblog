@@ -1,3 +1,4 @@
 Hola mundo
 Este es el nuevo archivo de texto creado con VSCode como prueba para el curso de git.
 Mi nombre es Camilo y espero que disfruten este viaje conmigo.
+Ahora acabo de hacer un cambio para ver el autosave.
